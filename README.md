@@ -1,5 +1,4 @@
-# Cherry Store website
+# Cherry Systems website
 
-The website at https://cherry-systems.github.io. It lists the apps in
-[Cherry-Systems/cherry-store](https://github.com/Cherry-Systems/cherry-store) and offers the
-Cherry Store app for Ubuntu, Linux Mint, Debian and other Debian-based Linux.
+The website at https://cherry-systems.github.io: Cherry OS, the
+[Cherry Store](https://cherry-systems.github.io/store/) and Cherry Move.
