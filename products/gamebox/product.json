@@ -23,6 +23,10 @@
     {
       "label": "Raspberry Pi 4/5 image",
       "url": "https://github.com/Cherry-Systems/gamebox/releases/download/v0.1/gamebox-0.1-rpi.img.xz"
+    },
+    {
+      "label": "Android phone app (APK)",
+      "url": "https://github.com/Cherry-Systems/gamebox/releases/download/v0.1/gamebox-phone-0.2.0.apk"
     }
   ],
   "links": [
