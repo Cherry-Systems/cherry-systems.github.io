@@ -61,6 +61,13 @@ a.card:hover { border-color: var(--line); transform: translateY(-2px); }
 .shots img { width: 100%; border-radius: 12px; display: block; box-shadow: 0 4px 18px rgba(0, 0, 0, 0.4); }
 .shots figcaption { color: var(--muted); font-size: 0.9rem; margin-top: 6px; text-align: center; }
 
+.warning {
+  background: #3a1020; border: 1px solid var(--cherry); border-left: 6px solid var(--cherry);
+  border-radius: 12px; padding: 14px 18px; margin: 20px 0;
+}
+.warning p { margin: 6px 0; }
+.warning b { color: var(--text); }
+
 ul.features { padding-left: 1.2em; }
 ul.features li { margin: 8px 0; }
 ul.features b { color: var(--text); }
