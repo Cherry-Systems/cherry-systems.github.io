@@ -3,7 +3,7 @@
   "added": "2026-10-12",
   "name": "Gamebox",
   "kind": "os",
-  "tagline": "Turn a PC or Raspberry Pi into a games console you own completely: no accounts, no subscriptions, nothing locked away.",
+  "tagline": "A games console for your PC or Raspberry Pi, with no accounts, subscriptions or DRM.",
   "description": "Gamebox turns an old PC, a gaming PC or a Raspberry Pi 4 or 5 into a games console. Switch it on and you land in a clean, controller-friendly menu with your games ready to play. There's nothing to set up first and no account to make.\n\nIt plays retro games from about 35 classic systems, PC games from Debian and Flathub, and games made for Gamebox. The emulators are built in and stay out of sight: pick a game and it starts. Put your games on the console, a USB drive or a network drive and they show up on their own.\n\nGamebox is for anyone who wants a living-room console without a store, subscriptions or DRM. It's great with friends too: couch co-op, LAN and online play, and your phone can be a spare controller.\n\nWhen you want to tinker, Desktop mode is one button away: a full Linux desktop with a web browser, a file manager and any software you like.",
   "features": [
     "Retro games from about 35 systems, with the emulators built in",
