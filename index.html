@@ -25,7 +25,7 @@
   </section>
 
   <h2>What we make</h2>
-  <div class="grid">
+  <div class="grid" id="products">
     <a class="card" href="/os/">
       <img class="icon" src="/logo.svg" alt="">
       <h3>Cherry OS</h3>
@@ -52,5 +52,31 @@
     those systems, and some of it runs on other Linux distributions too.</p>
 </main>
 <footer>Cherry Systems · <a href="https://github.com/Cherry-Systems">github.com/Cherry-Systems</a></footer>
+<script>
+fetch("/products.json").then(r => r.ok ? r.json() : []).then(list => {
+  const grid = document.getElementById("products");
+  for (const p of list) {
+    const card = document.createElement("a");
+    card.className = "card";
+    card.href = p.url;
+    if (p.icon) {
+      const icon = document.createElement("img");
+      icon.className = "icon";
+      icon.src = p.icon;
+      icon.alt = "";
+      card.append(icon);
+    }
+    const name = document.createElement("h3");
+    name.textContent = p.name;
+    const tagline = document.createElement("p");
+    tagline.textContent = p.tagline;
+    const more = document.createElement("span");
+    more.className = "more";
+    more.textContent = `About ${p.name} →`;
+    card.append(name, tagline, more);
+    grid.append(card);
+  }
+}).catch(() => {});
+</script>
 </body>
 </html>
