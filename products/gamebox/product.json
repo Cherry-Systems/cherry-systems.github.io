@@ -1,0 +1,66 @@
+{
+  "slug": "gamebox",
+  "added": "2026-10-12",
+  "name": "Gamebox",
+  "kind": "os",
+  "tagline": "Turn a PC or Raspberry Pi into a games console you own completely: no accounts, no subscriptions, nothing locked away.",
+  "description": "Gamebox turns an old PC, a gaming PC or a Raspberry Pi 4 or 5 into a games console. Switch it on and you land in a clean, controller-friendly menu with your games ready to play. There's nothing to set up first and no account to make.\n\nIt plays retro games from about 35 classic systems, PC games from Debian and Flathub, and games made for Gamebox. The emulators are built in and stay out of sight: pick a game and it starts. Put your games on the console, a USB drive or a network drive and they show up on their own.\n\nGamebox is for anyone who wants a living-room console without a store, subscriptions or DRM. It's great with friends too: couch co-op, LAN and online play, and your phone can be a spare controller.\n\nWhen you want to tinker, Desktop mode is one button away: a full Linux desktop with a web browser, a file manager and any software you like.",
+  "features": [
+    "Retro games from about 35 systems, with the emulators built in",
+    "Works on PCs and the Raspberry Pi 4 and 5",
+    "Any controller: wired, Bluetooth, or your phone",
+    "Games from the console, USB drives or a network drive, found automatically",
+    "Free PC games from a controller-friendly Game Store",
+    "Couch co-op plus LAN and online multiplayer",
+    "Themes, colours, wallpapers and fonts to make it yours",
+    "Desktop mode: a full Linux desktop one button away"
+  ],
+  "downloads": [
+    {
+      "label": "Download for PC (ISO)",
+      "url": "https://github.com/Cherry-Systems/gamebox/releases/download/v0.1/gamebox-0.1-amd64.iso"
+    },
+    {
+      "label": "Raspberry Pi 4/5 image",
+      "url": "https://github.com/Cherry-Systems/gamebox/releases/download/v0.1/gamebox-0.1-rpi.img.xz"
+    }
+  ],
+  "links": [
+    {
+      "label": "Source code on GitHub",
+      "url": "https://github.com/Cherry-Systems/gamebox"
+    },
+    {
+      "label": "User guide (installing and adding games)",
+      "url": "https://github.com/Cherry-Systems/gamebox/blob/main/docs/user-guide.md"
+    },
+    {
+      "label": "All releases",
+      "url": "https://github.com/Cherry-Systems/gamebox/releases"
+    },
+    {
+      "label": "Making games for Gamebox",
+      "url": "https://github.com/Cherry-Systems/gamebox/blob/main/docs/making-games.md"
+    }
+  ],
+  "icon": "icon.svg",
+  "screenshots": [
+    {
+      "file": "shot-1.webp",
+      "caption": "The home screen: jump back into your last game or browse your library"
+    },
+    {
+      "file": "shot-2.webp",
+      "caption": "Every game gets its own page with box art and details"
+    },
+    {
+      "file": "shot-3.webp",
+      "caption": "Playing Nova the Squirrel, a free homebrew NES game"
+    },
+    {
+      "file": "shot-4.webp",
+      "caption": "A quick welcome the first time you switch it on"
+    }
+  ],
+  "updated": "2026-10-12"
+}

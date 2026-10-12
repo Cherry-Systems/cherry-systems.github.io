@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "gamebox",
+    "name": "Gamebox",
+    "kind": "os",
+    "tagline": "Turn a PC or Raspberry Pi into a games console you own completely: no accounts, no subscriptions, nothing locked away.",
+    "icon": "/products/gamebox/icon.svg",
+    "url": "/products/gamebox/"
+  }
+]
