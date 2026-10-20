@@ -24,6 +24,10 @@
   ],
   "links": [
     {
+      "label": "Source code",
+      "url": "https://github.com/Cherry-Systems/glass-panes"
+    },
+    {
       "label": "Release and checksum",
       "url": "https://github.com/Cherry-Systems/glass-panes/releases/tag/v1.0"
     }
