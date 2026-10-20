@@ -16,8 +16,18 @@
     "Glass Update, without the PC restarting itself",
     "Debian 13 underneath, with no ads or bloatware"
   ],
-  "downloads": [],
-  "links": [],
+  "downloads": [
+    {
+      "label": "Download for PC (ISO)",
+      "url": "https://github.com/Cherry-Systems/glass-panes/releases/download/v1.0/glasspanes-1.0-amd64.iso"
+    }
+  ],
+  "links": [
+    {
+      "label": "Release and checksum",
+      "url": "https://github.com/Cherry-Systems/glass-panes/releases/tag/v1.0"
+    }
+  ],
   "icon": "icon.webp",
   "screenshots": [
     {
