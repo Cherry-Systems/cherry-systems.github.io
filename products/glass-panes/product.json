@@ -1,0 +1,49 @@
+{
+  "slug": "glass-panes",
+  "added": "2026-10-21",
+  "name": "Glass Panes",
+  "kind": "os",
+  "tagline": "A Windows 11-style desktop on Debian 13, free of ads, bloat and forced restarts.",
+  "description": "Glass Panes is a Linux operating system that looks and works like Windows 11. The taskbar is centred, Start and Search are where you expect them, and the Windows keyboard shortcuts work, including Win+E, Win+I, Win+R, Win+X, Win+L and Win+Z.\n\nUnderneath it is Debian 13 with KDE Plasma. It is light, free of adverts and bloatware, and it does not restart itself for updates. Glass Update installs security updates and Store app updates when you ask it to.\n\nEveryday apps have familiar names: File Explorer, Notepad, Paint, Photos, Snipping Tool, Calculator, Terminal and Disk Management. Windows programs (.exe and .msi) install and run with a double-click.\n\nThe Store installs apps from Debian and Flathub. The Cherry Store is included as well, and Cherry Move can bring your files across from an old Windows, Mac or Linux computer.\n\nGlass Panes has its own logo and artwork. It is not affiliated with or endorsed by Microsoft. Windows is a trademark of Microsoft Corporation.",
+  "features": [
+    "Centred taskbar, Start menu and Search",
+    "Windows keyboard shortcuts, including snap layouts (Win+Z)",
+    "Settings, Task Manager, File Explorer and Quick Settings",
+    "Windows .exe and .msi programs with a double-click",
+    "Store for Debian and Flathub apps, plus the Cherry Store",
+    "Cherry Move for files from an old Windows, Mac or Linux PC",
+    "Narrator (Win+Ctrl+Enter) and a lock screen (Win+L)",
+    "Glass Update, without the PC restarting itself",
+    "Debian 13 underneath, with no ads or bloatware"
+  ],
+  "downloads": [],
+  "links": [],
+  "icon": "icon.webp",
+  "screenshots": [
+    {
+      "file": "shot-1.webp",
+      "caption": "File Explorer, with the centred taskbar and Start button"
+    },
+    {
+      "file": "shot-2.webp",
+      "caption": "Win+Z opens snap layouts for the current window"
+    },
+    {
+      "file": "shot-3.webp",
+      "caption": "Settings, laid out like Windows"
+    },
+    {
+      "file": "shot-4.webp",
+      "caption": "The Store, for Debian and Flathub apps"
+    },
+    {
+      "file": "shot-5.webp",
+      "caption": "Task Manager"
+    },
+    {
+      "file": "shot-6.webp",
+      "caption": "Cherry Move, for bringing files from an old computer"
+    }
+  ],
+  "updated": "2026-10-21"
+}

@@ -6,5 +6,13 @@
     "tagline": "A games console for your PC or Raspberry Pi, with no accounts, subscriptions or DRM.",
     "icon": "/products/gamebox/icon.svg",
     "url": "/products/gamebox/"
+  },
+  {
+    "slug": "glass-panes",
+    "name": "Glass Panes",
+    "kind": "os",
+    "tagline": "A Windows 11-style desktop on Debian 13, free of ads, bloat and forced restarts.",
+    "icon": "/products/glass-panes/icon.webp",
+    "url": "/products/glass-panes/"
   }
 ]
